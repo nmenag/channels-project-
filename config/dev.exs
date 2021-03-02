@@ -3,7 +3,7 @@ use Mix.Config
 # Configure your database
 config :channels_project, ChannelsProject.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "hainover1",
   database: "channels_project_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
